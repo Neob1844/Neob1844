@@ -1,4 +1,4 @@
-# NeoB — CTO @ SOST Protocol
+# NeoB @ SOST Protocol
 
 Building a sovereign Proof-of-Work cryptocurrency with constitutional gold reserves.
 
