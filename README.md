@@ -1,8 +1,8 @@
-# NeoB @ SOST Protocol
+# Neob @ Sovereign Stock Token - SOST
 
 Building a sovereign Proof-of-Work cryptocurrency with constitutional gold reserves.
 
-## SOST Protocol
+## Sovereign Stock Token - SOST
 
 **ConvergenceX** · **PoPC** · **Gold Reserve**
 
