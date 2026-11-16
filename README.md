@@ -12,7 +12,7 @@ A CPU Proof-of-Work blockchain with its own consensus algorithm (ConvergenceX). 
 |---|---|
 | 🌐 Website | [sostcore.com](https://sostcore.com) |
 | ⚙️ Core | [sost-core](https://github.com/Neob1844/sost-core) — C++ node, miner and wallet CLI (ConvergenceX PoW, cASERT difficulty) |
-| 📄 Whitepaper | [Whitepaper v4.6](https://sostcore.com/sost-whitepaper.html) ([PDF](https://sostcore.com/whitepaper.pdf)) |
+| 📄 Whitepaper | [Whitepaper v4.7](https://sostcore.com/sost-whitepaper.html) ([PDF](https://sostcore.com/whitepaper.pdf)) |
 | 🔎 Explorer | [sostcore.com/sost-explorer.html](https://sostcore.com/sost-explorer.html) |
 
 | Key facts | |
