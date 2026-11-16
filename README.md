@@ -19,7 +19,8 @@ A CPU Proof-of-Work blockchain with its own consensus algorithm (ConvergenceX). 
 |---|---|
 | Genesis block | **March 15, 2026 — 18:00:00 UTC** |
 | Block time | 600 s target |
-| Maximum supply | ≈ 4,669,201 SOST (smooth emission decay, no halvings) |
+| Maximum supply | 4,669,201.54789641 SOST (smooth emission decay, no halvings) |
+| Coinbase maturity | 1,000 blocks |
 | Reward split | 50% miner / 50% DTD since block #25,000 (V15) |
 | Live consensus | V16 |
 
