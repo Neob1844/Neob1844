@@ -21,4 +21,4 @@ A Proof-of-Work protocol where each mined block allocates 25% of issuance to an 
 
 ## ⚠️ Legacy Disclaimer
 
-The repository `Sovereign-Stock-Token/SOST-Token` (2021) is **deprecated, abandoned, and completely unrelated** to this project. That was an early ERC-20 token concept that was never launched. The current SOST Protocol is a sovereign PoW chain with a novel consensus algorithm (ConvergenceX) designed and built entirely from scratch — not a fork of Bitcoin, RandomX, Ethash, or any existing codebase. See [sostcore.com](https://sostcore.com).
+The repository `Sovereign-Stock-Token/SOST-Token` (2021) is **deprecated, abandoned, and completely unrelated** to this project. That was an early ERC-20 token concept that was never launched. The current Sovereign Stock Token - SOST is a Native PoW L1 chain with a novel consensus algorithm (ConvergenceX) designed and built entirely from scratch — not a fork of Bitcoin, RandomX, Ethash, or any existing codebase. See [sostcore.com](https://sostcore.com).
